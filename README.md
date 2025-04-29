@@ -5,17 +5,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 [Project 1 Name](https://github.com/yourusername/project-1)
-**Description:** xxxxxxxx
-**Tech Stack:** xxxxx
+### 🔧 Artificial Intelligence & Machine Learning
+**Tech Stack:** Research, design, implementation, training and testing of various models, yielding high model accuracy rates. 
+**Repos:** 
+- [https://github.com/anjalipatel101/CPSC483_Project]
+- [https://github.com/anjalipatel101/481_Project_Fall_2023]
 
----
-
-### 📊 [Project 2 Name](https://github.com/yourusername/project-2)
-**Description:** xxxxxxxxx
-**Tech Stack:** xxxx
-
-
+### 📊 Data Science & Databases
+**Tech Stack:** Python, SQL, PHP, Database Design and Architecture Principles
+**Repos:** 
+- Pairs Trading: [https://github.com/anjalipatel101/Summer_2023_Project]
+- Databases: [https://github.com/anjalipatel101/332FinalProject]
 ---
 
 ## 🛠 Tech Stack
@@ -27,4 +27,4 @@
 
 ## 📫 Let's Connect
 
-- [[LinkedIn]([https://www.linkedin.com/in/anjali-s-patel])]
+- [https://www.linkedin.com/in/anjali-s-patel]
