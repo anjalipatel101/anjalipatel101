@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, my name is Anjali Patel! 👋
+
+- 🔭 I’m currently working on a Serverless Pizza Ordering Application on AWS, and a personal mobile application project, while actively learning Java, React.js, and working with Amazon Web Services. 
+- 💬 Ask me about my data science and AI experiences and perspectives!
+
+## 🚀 Featured Projects
+
+### 🔧 [Project 1 Name](https://github.com/yourusername/project-1)
+**Description:** xxxxxxxx
+**Tech Stack:** xxxxx
+
+---
+
+### 📊 [Project 2 Name](https://github.com/yourusername/project-2)
+**Description:** xxxxxxxxx
+**Tech Stack:** xxxx
 
 
-**anjalipatel101/anjalipatel101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Databases: Architecture, Implementation, Queries, Setup, Data Analytics
+- Data Science: Working with large Datasets, RStudio, Python Scripting, Predictions, Reporting
+- Artifical Intelligence/Machine Learning: Understand of models and their interactions, Leveraging currently developed models for business needs, Automation of processes
+- Programming: React.js (Moble Application Development), Python, Java, JavaScript, C++
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Let's Connect
 
+- [[LinkedIn]([https://www.linkedin.com/in/anjali-s-patel])]
