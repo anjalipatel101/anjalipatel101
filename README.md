@@ -22,7 +22,7 @@
 ### ☁️💻 Amazon Web Services
 **Tech Stack:** AWS, Railway, full lifecycle development from initiali idea, design and execution. 
 **Repo:** 
-- Mike's Pizza ORdering App: [https://github.com/anjalipatel101/Mikes-Pizza-App1]
+- Mike's Pizza Ordering App: [https://github.com/anjalipatel101/Mikes-Pizza-App1]
 - Ask me about my Virus Scanner Project!
   
 ### 🔧 Artificial Intelligence & Machine Learning
