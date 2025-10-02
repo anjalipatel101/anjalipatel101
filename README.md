@@ -7,7 +7,7 @@
 - Databases: Architecture, Implementation, Queries, Setup, Data Analytics
 - Data Science: Working with large Datasets, RStudio, Python Scripting, Predictions, Reporting
 - Artifical Intelligence/Machine Learning: Understand of models and their interactions, Leveraging currently developed models for business needs, Automation of processes
-- Technologies: Amazon Web Services, WIX
+- Technologies: Amazon Web Services, Power BI, WIX
 - Programming: React.js (Moble Application Development), Python, Java, JavaScript, C++, SQL, and more!
 ---
 
